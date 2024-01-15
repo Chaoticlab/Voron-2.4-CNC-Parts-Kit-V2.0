@@ -1,4 +1,4 @@
-![License](https://img.shields.io/static/v1?label=license&message=CC BY-NC-ND 4.0&color=green)
+![Static Badge](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-GREEN)
 # Copyright
 
 These files and the designs contained therein are copyright (c) 2024 ChaoticLab.
